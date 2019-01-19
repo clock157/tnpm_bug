@@ -18,11 +18,5 @@
     "umi": "^2.0.0",
     "umi-plugin-library": "^1.0.1-alpha.1"
   },
-  "license": "MIT",
-  "dependencies": {
-    "axios": "^0.18.0",
-    "react-docgen-typescript-loader": "^3.0.0",
-    "readable-stream": "^3.1.1",
-    "umi-plugin-library": "^1.0.1-alpha.17"
-  }
+  "license": "MIT"
 }

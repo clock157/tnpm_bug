@@ -1,11 +1,5 @@
-import styles from './index.css';
-import styles2 from './global.less';
-import axios from 'axios';
-
-
-axios.get('http://www.baidu.com');
-
-console.log(styles2);
+// import styles from './index.css';
+// import styles2 from './global.less';
 
 export default function(props) {
   return (
